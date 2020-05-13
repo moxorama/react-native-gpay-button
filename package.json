@@ -1,0 +1,17 @@
+{
+  "name": "react-native-gpay-button",
+  "version": "1.0.0",
+  "description": "A google pay button for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Ben Augarten <baugarten@gmail.com>",
+  "repository": "https://github.com/baugarten/react-native-gpay-button",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
