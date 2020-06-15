@@ -18,6 +18,6 @@ public class RNGooglePayButtonImageManager extends SimpleViewManager<View> {
     @Override
     protected View createViewInstance(ThemedReactContext reactContext) {
         return LayoutInflater.from(reactContext).inflate(
-                R.layout.googlepay_button, null);
+                R.layout.buy_with_googlepay_button, null);
     }
 }
